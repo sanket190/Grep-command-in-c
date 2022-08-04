@@ -1,5 +1,5 @@
 # Grep-command-in-c
-Built a command that perform operations on data on files  
+Built a command that perform operations on data of files  
 The grep filter searches a file for a particular pattern of characters, and displays all lines that contain that pattern from current working directory. 
 Also it print or display some specific line or charecters of the file.
 
